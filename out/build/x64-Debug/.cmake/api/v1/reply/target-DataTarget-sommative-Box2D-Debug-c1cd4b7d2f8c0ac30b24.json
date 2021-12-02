@@ -1,0 +1,35 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"sommative-Box2D/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "DataTarget-sommative-Box2D::@460b9fc38fde015373e9",
+	"name" : "DataTarget-sommative-Box2D",
+	"paths" : 
+	{
+		"build" : "sommative-Box2D",
+		"source" : "sommative-Box2D"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
